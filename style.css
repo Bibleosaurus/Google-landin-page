@@ -1,0 +1,103 @@
+#container{
+    margin: auto;
+    height: 400px;
+    width: 700px;
+    margin-top: 245px;
+    margin-left: 600px;
+}
+
+#magnify{
+    width:  30px;
+    position: relative;
+    right: 540px;
+    top: 11px;
+}
+#microphone{
+    width: 15px;
+    position: relative;
+    right: 65px;
+    top: 5px;
+}
+#search{
+    border-radius: 100px;
+    width: 550px;
+    height: 45px;
+    border-color: rgb(128, 128, 128,0.1);
+    text-align: center;
+}
+
+#google{
+    position: relative;
+    left: 145px;
+    margin-bottom: 30px;
+}
+#lucky{
+    border:hidden;
+    color: gray;
+    height: 35px;
+    width: 130px;
+    border-radius: 3px;
+    margin-left: 10px;
+}
+#search2{
+    margin-left: 150px;
+    margin-top: 20px;
+    border:hidden;
+    color: gray;
+    height: 35px;
+    border-radius: 3px;
+    width: 130px;
+}
+p{
+    margin-left: 140px;
+}
+#search:hover{
+    box-shadow: 2px 2px 2px  gray;
+}
+
+.about{
+    text-decoration: none;
+    color:black;
+    font-size: 16px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.about:visited,.about:active{
+    color: black;
+}
+
+.about:hover{
+    text-decoration: underline;
+}
+#right{
+    float: right;
+    position: relative;
+    bottom: 20px;
+}
+
+#left{
+    position: relative;
+    top: 15px;
+}
+
+#signin{
+    border: none;
+    background-color: #4285F4;
+    color: white;
+    border-radius: 5px;
+    width: 70px;
+    height: 30px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+#appcon{
+    width:30px;
+    position: relative;
+    top: 10px;
+    opacity: 0.5;
+}
+#appcon:hover{
+    opacity: 1;
+
+}
+
